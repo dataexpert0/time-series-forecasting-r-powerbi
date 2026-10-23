@@ -1,4 +1,4 @@
-# Energy Forecasting and Analysis in Spain (Power BI + Python)
+# Energy Forecasting and Analysis in Spain (with Pandas)
 
 This project analyzes and forecasts electrical energy demand, generation, and pricing trends in Spain using real-world hourly data (2015–2018). It combines:
 
